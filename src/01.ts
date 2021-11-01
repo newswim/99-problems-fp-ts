@@ -14,7 +14,7 @@ import { constSecond } from './utils'
  * the functions are "total".
  *
  * @description
- * Write a function that (safely) returns the last element of a list.
+ * 1. Write a function that (safely) returns the last element of a list.
  *
  *     last :: List<A> -> Option<A>
  *
