@@ -13,6 +13,6 @@ some data types and utility functions within `fp-ts`, a functional library for T
 ### Goals
 
 1. Collect a bunch of examples of solving the 99 Problems in various ways.
-2. Provide examples and motivation.
+2. Provide explanations and motivations.
 3. Perform property-based tests using `fast-check`.
 4. Benchmark the different ansers to compare performance characteristics.

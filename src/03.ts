@@ -1,12 +1,9 @@
-// import { flow, tuple } from 'fp-ts/function'
 import * as RA from '../lib/ReadonlyArray'
 import * as O from 'fp-ts/lib/Option'
 
 /**
  * We often want to find a particular element in an array,
- * and refer to its place with a cardinal number.
- *
- * This is different from index-based lookup.
+ * based on its _position_, rather than its index.
  *
  * @description
  * 3. Find the K'th element of a list. (easy)
